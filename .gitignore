@@ -1,0 +1,11 @@
+*.class
+*.log
+*.jar
+*.war
+*.ear
+
+# Ignore JDK
+oracleJdk-26.jdk/
+
+# Mac files
+.DS_Store
