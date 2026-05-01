@@ -11,3 +11,4 @@ Till Now :
 ! if else 
 ! loops
 ! arrays
+! methods in java
