@@ -3,6 +3,8 @@
 A non showcasing personal repo. to track and keep record my progess while learning and understanding and performing coding in Java.
 This repo is commmit from VS Code.
 
+✌🏻PROGRESS -->
+
 Till Now :
 ! variables
 ! operators
@@ -11,4 +13,6 @@ Till Now :
 ! if else 
 ! loops
 ! arrays
-! methods in java
+! methods
+! oops
+! objects and classes
