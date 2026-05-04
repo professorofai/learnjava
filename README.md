@@ -18,3 +18,5 @@ Till Now :
 ! oops
 ! objects and classes
 ! modifiers
+! class methods
+! constructors
